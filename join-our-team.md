@@ -1,6 +1,6 @@
 ---
 layout: recruiting
-title: -- MARKET -- Careers
+title: Palmdale Careers
 permalink: /join-our-team/
 ---
 
@@ -14,40 +14,55 @@ permalink: /join-our-team/
 <figcaption class="caption">{{site.data.settings.client.name}}</figcaption>
 </div>
 
+<p>Dear Fellow Real Estate Agent:</p>
 
-<p>Dear Real Estate Agent,</p>
+<p>I understand that you are a brand-new agent or have only been in the business for a few years. You want to succeed, but you don’t have the resources to do so at your current team or brokerage (or you may be looking for a team or brokerage that will show you/train you so you can achieve your goals).</p>
 
-<p>Are you frustrated with where you’re at in your real estate business?</p>
+<p>Many brokerages promise to provide structure, coaching, and other resources, but fail to make good on their word once they’ve drawn you in. As a result of this and other factors, <strong>87% of all new agents fail within five years of starting out in the industry.</strong></p>
 
-<p>I’d like to offer you a free subscription to my real estate agent training e-newsletter. You’ll receive:
+<p>This isn’t to say that these agents don’t try to make it work. You can always work more, but the simple truth is that even the most talented individuals can’t thrive if they’re struggling against an inadequate work environment. Proper training is a rare thing in our business.</p>
+
+<p><strong>If this sounds familiar, you’ve almost certainly tried everything you can think of to keep pushing forward.</strong> You’re determined to take your career to the next level, but you just don’t have the proper tools.</p>
+
+<p>Think of it this way: A mountain climber couldn’t make it up Everest without any gear, could they? Of course not. The same is true of real estate agents. If you want to get to the top, you need to be properly equipped. In other words, you need coaching, you need resources, and you need to join me.</p>
+
+<p>If you’re ready to take charge of your future and start climbing toward your own personal “summit,” I’ve got good news. </p>
+
+<p><strong>My name is Ron Hier and I’ve been in the real estate business since 1995. After working for a few different national brokerages for about 17 years, I set out on my own. I have years of experience educating buyers and sellers, coordinating transactions, coaching agents, and learning how to succeed, and now I want to share that experience with you.</strong></p>
+
+<p>I can provide you with the training and coaching you need and teach you the skills that you’ll need to consistently convert your leads into closings. We’re not a big team, so you’ll get the added benefit of being able to work and train one-on-one with me.</p>
+
+<p><strong>Agents who join us gain immediate access to a multitude of resources, such as:</strong>
 <ul class="indent">
-<li>Q&A videos answering the most commonly asked business questions</li>
-<li>Interviews with agents in my office on what they are doing to sell homes</li>
-<li>Replays of trainings and meetings we hold, that are recorded, so you can attend 24/7</li>
-<li>Invites to special events with guest speakers that include exclusive discount codes</li>
-<li>Copies of procedure manuals, checklists, and more we use to streamline operations</li>
-<li>Market updates we publish that you can copy and paste to use in your marketing</li>
+<li>One-on-one coaching</li>
+<li>One-on-one training</li>
+<li>Access to all the scripts and dialogues that I use</li>
+<li>Planned days off and vacation time</li>
+<li>Paid apprenticeship </li>
+<li>Hourly wage plus bonus</li>
+<li>401 K, (savings, retirement plans)</li>
 </ul></p>
 
-<p>This newsletter is specifically for real estate agents who want to grow, learn, and want to dominate their market with a local brand and expert presence. If you want to improve yourself, make more money and you feel you can do more and just need the tools, this is for you. This is not for part-time agents who are happy with their income.</p>
+<p><strong>Each of these things will be invaluable to your success, and this list merely scratches the surface of what we have to offer.</strong> We’ll also teach you how to build additional wealth through investing in real estate.</p>
 
-<p>This is 100% educational advice. I’d like you to get to know what we’re up to here so we can grow the size of the real estate pie in {{site.data.settings.client.market}}. In the past year, ____ homes SOLD in our {{site.data.settings.client.market}} market, so there is plenty of business to go around.</p>
+<p>Ultimately, the fate of your life and career is in your hands. You can try to go it alone as a solo agent, continue struggling at your current brokerage, or even exit the industry—or you could join us, benefit from our coaching and training, and start seeing the success you deserve. As our team grows and as you grow with us, you’ll have even more time to do more business and focus on those important dollar-producing activities.</p>
 
-<p>SPECIAL NEW SUBSCRIBER BONUS</p>
+<p>But don’t just take my word for it. <strong>Consider the story of my son-in-law, Josh.</strong></p>
 
-<p>When you subscribe, you’ll also receive a free copy of my Office Tour DVD so you can see how our office is set up, who does what, and what’s it like to work in a productive real estate office. We collectively sell about _____ homes every year.</p>
+<p>Josh was laid off from a major bank and didn’t know what to do next. I assured him that I could help; all he had to do was get his real estate license. He was skeptical at first, but I knew that I could coach him up to have great success. </p>
 
-<p>Feel free to unsubscribe anytime. We will never, ever, ever spam you.</p>
+<p>In his first year, he closed 10 deals, which is good but not great. Then, the next year he closed 15. Last year, he closed 21 deals, and this year he’s on track to increase his production even further. </p>
 
-<p>The next step, after subscribing to our newsletter, is to attend one of our many Business Planning Workshops we hold from time to time, with the opportunity to schedule a free business planning meeting where we’ll personalize the plan for you.</p>
+<p>Josh’s success story is incredible, and now is your chance to write your own. The opportunity to change your life is right in front of you. Whether you want to make $50,000, $75,000 or $100,000+ I have the plan for you.</p>
 
-<p>I invite you to subscribe below. Simply enter your email address and you’ll get a confirmation email with a copy of my Office Tour DVD.</p>
+<p>When you join us, your path to success starts right away. We’ll start on your coaching and training immediately, with me, one-on-one.</p>
 
-<p>Email me at <a href="mailto:{{site.data.settings.client.email}}">{{site.data.settings.client.email}}</a>  with any questions I can answer for you in my videos. If I pick your question and answer it in the newsletter, I’ll send you a $5 Amazon gift card!</p>
+<p>So what are you waiting for? It’s time to take control of your future and see first-hand how joining my team can transform your life and career. The longer you wait to reach out, the longer you’re suppressing your true potential and the longer you’re going to have to wait to make the income you deserve. Let’s have a conversation.</p>
 
-<p>Let’s help you grow your business.</p>
+<p>I look forward to talking to you soon!</p>
 
-<p>{{site.data.settings.client.name}}</p>
+<p>Ron Hier</p>
+
 
 
 
