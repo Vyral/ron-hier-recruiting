@@ -17,6 +17,8 @@ youtube_code: 'https://youtu.be/GkMKT760zyg'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Sellers should never be home when a buyer comes to tour it. Here’s why.</em></p>
+
 Why can’t homeowners be home when buyers come to tour their house? Here’s how to answer this question should it come up when you’re selling properties:&nbsp;
 
 Recently, a home seller asked to be present when the buyers and agents came to tour the house because they wanted to be able to answer all their questions. However, **it’s not in the seller’s best interest to be there when buyers come looking.** Buyers and buyer’s agents like to ask a ton of questions, and the homeowner could unintentionally give away valuable information and compromise their negotiating position. Homeowners may point out repairs that they’re working on, and that will inadvertently devalue their property.&nbsp;
